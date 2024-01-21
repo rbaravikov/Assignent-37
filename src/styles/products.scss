@@ -1,0 +1,47 @@
+.productsPage {
+    padding: 25px;
+}
+
+.filterContainer label {
+ font-weight: 500;
+ margin-right: 10px;
+}
+.filterContainer label select {
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.cardsContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px;
+    height: 400px; 
+    background: white;
+    box-shadow: 2px 2px 1px #61a3ad;
+    padding: 20px;
+    margin: 20px;
+}
+
+.card h1 {
+    color: #61a3ad;
+    font-weight: 400;
+}
+
+h2, h3, p {
+    color: #4c4c4c;
+}
+
+.card a {
+    text-decoration: none;
+    color: white;
+    margin-top: 15px;
+    background: #61a3ad;
+    padding: 10px 10px;
+}

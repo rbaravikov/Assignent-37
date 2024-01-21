@@ -1,0 +1,28 @@
+.reviews {
+    padding: 25px;
+}
+
+svg {
+    color: #61a3ad;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px;
+    height: 400px; 
+    background: white;
+    box-shadow: 2px 2px 1px #61a3ad;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+a.back {
+    text-decoration: none;
+    color: white;
+    margin-top: 15px;
+    background: #61a3ad;
+    padding: 10px 10px;
+}

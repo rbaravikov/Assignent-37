@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "Product 2",
+      "category": "books",
+      "price": 2000,
+      "description": "This is description about product 2"
+    },
+    {
+      "id": "999",
+      "rating": 3,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "rating": 3,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": "3",
+      "rating": 4,
+      "comment": "Review 3 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": "6a7e",
+      "rating": 3,
+      "comment": "Review 1 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": "377b",
+      "rating": 3,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": "6476",
+      "rating": 3,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    }
+  ]
+}
